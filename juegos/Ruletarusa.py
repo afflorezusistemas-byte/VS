@@ -1,0 +1,1 @@
+print ("terminacion a ruleta rusa")
