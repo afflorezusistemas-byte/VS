@@ -1,0 +1,9 @@
+
+usuarios= [ "usuario1"]:
+import datetime as dt
+dt.date (hora, minuto, segundo)
+
+
+
+for usuario in usuarios:
+print("la hora es
